@@ -1,9 +1,5 @@
-pandas
 streamlit
-pickle
+pandas
+numpy
 scikit-learn
-train_test_split
-LabelEncoder
-StandardScaler
-LogisticRegression
-accuracy_score
+pickle5
