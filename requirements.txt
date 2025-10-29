@@ -2,3 +2,8 @@ pandas
 streamlit
 pickle
 scikit
+train_test_split
+LabelEncoder
+StandardScaler
+LogisticRegression
+accuracy_score
